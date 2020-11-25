@@ -27,3 +27,7 @@ Y ejecutamos el scrip
 >sudo ./lemp.sh
 
 Al terminar la ejecución del script tendremos nuestro Ubuntu lemp listo.
+
+## Archivo php.ini
+
+He incluido en el repositorio el archivo php.ini porque no he sido capaz de hacer funcionar el comando sed, así que lo he puesto con el fin de que cuando me baje el repositorio, copie el archivo ya configurado. 
