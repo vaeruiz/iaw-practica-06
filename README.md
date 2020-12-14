@@ -16,15 +16,15 @@ Clonamos el repositorio de github de la práctica
 
 Cuando se haya descargado el directorio movemos el script de instalación al directorio de ubuntu:
 
->mv iaw-practica-06/lemp.sh /home/ubuntu/
+>mv iaw-practica-06/lemp_aplicacion.sh /home/ubuntu/
 
 Le añadimos permiso de ejecución:
 
->sudo chmod +x lemp.sh
+>sudo chmod +x lemp_aplicacion.sh
 
 Y ejecutamos el scrip
 
->sudo ./lemp.sh
+>sudo ./lemp_aplicacion.sh
 
 Al terminar la ejecución del script tendremos nuestro Ubuntu lemp listo.
 
